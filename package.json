@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "displayName": "BlueLink Smart Connect",
+  "displayName": "HomeBridge BlueLink Smart Connect",
   "name": "homebridge-bluelink-smart-connect",
   "version": "1.0.0",
   "description": "homebridge plugin for bluelink smart connect wifi-connected thermostats produced by braeburn",
